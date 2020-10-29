@@ -14,8 +14,7 @@ https://ksandrvenom.github.io/test_for_LuckyAds/
 
 СТАРЫЕ примеры кода:
 
-по БЭМ - https://github.com/KsandrVenom/the_cattery_maine_coon
+по БЭМ - https://ksandrvenom.github.io/the_cattery_maine_coon/
 
 можно потыкать кнопочку, html, css, js DOM - https://ksandrvenom.github.io/site_portfolio/
 
-пример кода на js, очень старого - https://github.com/KsandrVenom/test_task
