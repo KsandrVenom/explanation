@@ -1,5 +1,7 @@
 # explanation
 
+Весь код доступен в репозитариях в профиле
+
 Последние примеры кода от 15.11.2020
 
 https://www.figma.com/file/0a1IqTjObiZWRVkcT9zgLl/T-Task - макет
