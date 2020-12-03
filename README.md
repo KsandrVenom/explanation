@@ -7,6 +7,10 @@
 https://www.figma.com/file/0a1IqTjObiZWRVkcT9zgLl/T-Task - макет
 
 https://ksandrvenom.github.io/test_task_alef/ сайт. + немного js и состояний ссылок и прочего. Максимально адаптивно, кроссбраузерно + БЭМ и pixel perfect на минималках.
+
+пример технической вёрстки на bootstrap5
+
+https://github.com/KsandrVenom/bootstrap5_anna_block
  
 Примеры кода(от 18.10.2020):
 
