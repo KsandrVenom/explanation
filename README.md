@@ -19,38 +19,3 @@ https://ksandrvenom.github.io/delivery/
 https://ksandrvenom.github.io/kwork_hitoc_unvito_15.10.2020/ - ВЁРСТКА ЧУЖАЯ. моё - верстал форму, блок с графиками, общий адаптив подправил где можно, подключал скрипты, шрифты, сделал слайдер, настраивал форму на php
 
 4. можно потыкать кнопочку, html, css, js DOM - https://ksandrvenom.github.io/site_portfolio/
-
-
-
-
-
-
-
-Дальше имеет смысл смотреть только ценителям и при сильной заинтересованности, старые проекты, обкатки навыков - непризентабельно короче =)
-
-
-
-
-
-
-
-
-
-
-
-пример технической вёрстки на bootstrap5
-
-https://ksandrvenom.github.io/bootstrap5_anna_block/
-
-пример технической вёрстки vue.js
-
-https://ksandrvenom.github.io/vue_js/
- 
- 
-сайт тестового
-
-https://ksandrvenom.github.io/test_for_LuckyAds/
-
-по БЭМ - https://ksandrvenom.github.io/the_cattery_maine_coon/
-
-
